@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dsnet/compress/bzip2"
+	"github.com/dsnet/compress/tree/master/bzip2"
 )
 
 // TarBz2 is for TarBz2 format
